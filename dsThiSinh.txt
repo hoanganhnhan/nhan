@@ -1,0 +1,13 @@
+
+Thi sinh 1: 
+	Ho ten: nguyen van a
+	Nam sinh: 2001
+	Diem toan: 5
+	Diem ly: 7
+	Diem hoa: 9
+Thi sinh 2: 
+	Ho ten: nguyen van b
+	Nam sinh: 2001
+	Diem toan: 6
+	Diem ly: 9
+	Diem hoa: 2
